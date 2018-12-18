@@ -30,6 +30,13 @@ class GameScene: SKScene {
         
         ///////// Adddededehbgfsd fgkhs dfks dfgkjhs dfkhjgs dfgksg d
         
+        let Player5 = SKSpriteNode(imageNamed: "profile_fallow-2")
+        Player5.setScale(0.5)
+        Player5.position = CGPoint(x: 0, y: -100)
+        Player5.zPosition = 1
+        addChild(Player5)
+        
+        ////////added new change
     }
     
 }

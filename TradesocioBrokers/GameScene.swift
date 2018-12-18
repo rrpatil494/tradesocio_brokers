@@ -11,8 +11,6 @@ import GameplayKit
 
 class GameScene: SKScene {
     
-    
-    
     override func didMove(to view: SKView) {
         
         let Player1 = SKSpriteNode(imageNamed: "profile_fallow-2")

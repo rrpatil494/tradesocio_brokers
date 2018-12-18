@@ -26,6 +26,8 @@ class GameScene: SKScene {
         Player5.position = CGPoint(x: 0, y: -100)
         Player5.zPosition = 1
         addChild(Player5)
+        
+        ////////
     }
     
 }

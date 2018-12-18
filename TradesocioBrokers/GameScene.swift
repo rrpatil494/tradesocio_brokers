@@ -27,6 +27,9 @@ class GameScene: SKScene {
         Player2.zPosition = 1
         addChild(Player2)
         
+        
+        ///////// Adddededehbgfsd fgkhs dfks dfgkjhs dfkhjgs dfgksg d
+        
     }
     
 }

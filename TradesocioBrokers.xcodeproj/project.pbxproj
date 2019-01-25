@@ -67,11 +67,11 @@
 				8E47BAD421C8CC1C00553C8F /* Actions.sks */,
 				8E47BAD621C8CC1D00553C8F /* GameScene.swift */,
 				8E47BAD821C8CC1D00553C8F /* GameViewController.swift */,
+				8E47BAE821C8EB9500553C8F /* JFDFirstViewController.swift */,
 				8E47BADA21C8CC1D00553C8F /* Main.storyboard */,
 				8E47BADD21C8CC2B00553C8F /* Assets.xcassets */,
 				8E47BADF21C8CC2B00553C8F /* LaunchScreen.storyboard */,
 				8E47BAE221C8CC2B00553C8F /* Info.plist */,
-				8E47BAE821C8EB9500553C8F /* JFDFirstViewController.swift */,
 			);
 			path = TradesocioBrokers;
 			sourceTree = "<group>";

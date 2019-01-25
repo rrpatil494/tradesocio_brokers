@@ -21,6 +21,15 @@ class GameViewController: UIViewController {
         Player1.setScale(0.5)
         Player1.position = CGPoint(x: 0, y: -100)
         Player1.zPosition = 1
+        let Player12 = SKSpriteNode(imageNamed: "profile_fallow-2")
+        Player12.setScale(0.5)
+        Player12.position = CGPoint(x: 0, y: -100)
+        Player12.zPosition = 1
+        
+        let Player2 = SKSpriteNode(imageNamed: "profile_fallow-2")
+        Player2.setScale(0.5)
+        Player2.position = CGPoint(x: 0, y: -100)
+        Player2.zPosition = 1
         //addChild(Player2)
         
         let Player3 = SKSpriteNode(imageNamed: "profile_fallow-2")

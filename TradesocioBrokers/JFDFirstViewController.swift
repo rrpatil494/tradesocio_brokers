@@ -8,3 +8,8 @@
 
 import Foundation
 print("changes in the file of the JFD First Broker") 
+
+let Player12 = SKSpriteNode(imageNamed: "profile_fallow-2")
+Player12.setScale(0.5)
+Player12.position = CGPoint(x: 0, y: -100)
+Player12.zPosition = 1

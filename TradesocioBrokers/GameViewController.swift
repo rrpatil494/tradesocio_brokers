@@ -21,6 +21,7 @@ class GameViewController: UIViewController {
         Player1.setScale(0.5)
         Player1.position = CGPoint(x: 0, y: -100)
         Player1.zPosition = 1
+        
         let Player12 = SKSpriteNode(imageNamed: "profile_fallow-2")
         Player12.setScale(0.5)
         Player12.position = CGPoint(x: 0, y: -100)
